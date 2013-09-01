@@ -21,7 +21,7 @@
     <h2>Kurczaki</h2>
     <small>8 marca 2011</small>
     <p>
-      Tabelka <a href="Kurczaki.html">Kurczaki</a>
+      Tabelka <a href="github.com/lwolek/tabelki/Kurczaki.html">Kurczaki</a>
     <p>
       Tabelka <a href="XVIw..html">XVI w.</a>
     <p>
