@@ -1,0 +1,30 @@
+article, aside, details, figcaption, figure, footer, header,
+    hgroup, menu, nav, section {
+  display: block;
+}
+
+nav {
+  float: right;
+  width: 20%;
+}
+article {
+  float: left;
+  width: 69%;
+  margin: 1px 0;
+}
+footer {
+  clear: both;
+}
+
+
+body {
+  width: 900px;
+  margin: 0 auto;
+  color: white;
+}
+
+header, nav, article, footer {
+  margin: 2px 0;
+  border: 3px solid black;
+  border-color: white;
+}
