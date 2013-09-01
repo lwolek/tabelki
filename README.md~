@@ -3,6 +3,10 @@
   <head>
     <meta charset=utf-8>
     <title>Techniki Internetowe</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- <script src="http://code.jquery.com/jquery-1.4.4.min.js"></script> -->
      <link rel=stylesheet media=all href="blog5.css">
   </head>
 <body background="http://us.123rf.com/400wm/400/400/ngonhan/ngonhan1209/ngonhan120901407/15162956-ciemne-paski-streszczenie-tekstury-tla.jpg">
@@ -36,13 +40,13 @@
   </article>
   <article>
     <h2>Takie sobie misz masz</h2>
-    <small>2 września 2013</small>
+    <small>1 stycznia 2011</small>
     <p>
-      Piękna pogoda na spacer.
+      Skończyła się kawa. Ogólnie bałagan…
     </p>
   </article>
   <footer>
-    <p><small>Aktualizacja 02.09.2013</small></p>
+    <p><small>Aktualizacja 07.06.2013</small></p>
   </footer>
 
 </body>
